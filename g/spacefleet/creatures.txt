@@ -1,36 +1,124 @@
 * creature description
-[!creature dwelling][[creature dwelling] creature type]
+
+# "a quick mammal which digs in the ground"
+[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type][. it/ which] [[creature dwelling] creature traverses] the [[creature dwelling] syn].
+
+# "a quick mammal which digs in the ground. it tracks prey patiently"
+[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type] which [[creature dwelling] creature traverses] the [[creature dwelling] syn]. it [does creature activity].
+
+
+# ----- Helpers -----
+
+* creature modifier
+tiny
+small
+large
+giant
+smart
+clever
+graceful
+lumbering
+deadly
+friendly
+capable
+athletic
+quick
+patient
+
+* does creature activity
+[tenacious activity] [tenaciously]
+[tenaciously] [tenacious activity]
+[powerful activity] [powerfully]
+[powerfully] [powerful activity]
+
+* tenacious activity
+hunts 
+tracks prey 
+watches 
+scavenges 
+observes 
+looks on 
+does its work 
+[guards/patrols] its [territory/home] 
+
+* powerful activity
+[fights/subdues/battles] [rivals/enemies]
+[defends/guards/patrols] [territory/its home] 
+crushes things 
+[kills/snares/captures] its prey
+
+* tenaciously
+patiently
+painstakingly
+carefully
+cautiously
+tenaciously
+silently
+astutely
+
+* powerfully
+decisively
+remorselessly
+effortlessly
+mercilessly
+
+# ----- Master categories -----
 
 * creature dwelling
 land
 sea
 air
 
+* land adj
+terrestrial
+[ground-/land-]dwelling
+ground-based
+
+* sea adj
+aquatic
+[sea-/ocean-/water-]dwelling
+oceanic
+sea-faring
+
+* air adj
+flying
+aerial
+winged
+
 * land creature type
 mammal
 marsupial
 mole
 reptile
+rodent
+amphibian
+insect
 
 * sea creature type
 fish
+mammal
 crustacean
+amphibian
+insect
 
 * air creature type
 bird
 reptile
+rodent
+insect
 
-# ---- Land traversal -----
+# ----- Land traversal -----
 
 * land syn
 land
 earth
 ground
+dirt
+rocks
 
-* land creature traverse
-pounds
-sprints
-burrows
+* land creature traverses
+[runs/sprints/pounds/prowls] [across/over/around]
+[digs/burrows] [under/beneath/in]
 
 # ----- Sea traversal -----
 
@@ -39,11 +127,27 @@ sea
 waves
 ocean
 
-* sea creature traverse
+* sea creature traverses
 sails [through/over]
 glides [through/over]
 swims through
 powers [through/over]
 paddles [through/over]
+undulates through
+cuts through
+flaps through
+strokes through
 
+# ----- Air -----
+
+* air syn
+air
+sky
+clouds
+
+* air creature traverses
+glides [through/across]
+flies [through/across]
+soars [through/across]
+tears [through/across]
 
