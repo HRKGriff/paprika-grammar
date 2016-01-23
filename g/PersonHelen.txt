@@ -1,0 +1,95 @@
+* Meeting
+You meet [a] [Person adj] [Person Race] [Person Type] holding a [Person item]
+You meet [a] [Person state] [Person Race] [Person Type] holding a [Person item]
+Suddenly a [a] [Person state] [Person Race] [Person Type] holding a [Person item] stumbles into the 
+
+# person descriptions
+
+* person race
+orc
+goblin
+human
+elf
+mer-man
+halfling
+ent
+griffin
+lizard-man
+
+* person type
+archer 
+warrior
+chef
+inn-keeper
+wizard
+magician
+fighter
+traveller
+dog-enthusiast
+academic
+alchemist
+spy
+shapeshifter
+thief
+poet
+bard
+
+* person adj
+elderly
+young
+fresh-faced
+grimacing
+beautiful
+handsome
+ugly
+stinking
+clever
+ingenious
+scruffy
+long-haired
+hairy
+bald
+very-bald
+freckly
+red-faced
+hunch-backed
+prickly
+friendly
+quiet
+
+* person state
+confused
+thoughtful
+hungry
+angry
+fearful
+gleeful
+sad
+happy
+mad
+wounded
+lost
+emotional
+friendly
+jittery
+
+* person item
+fork
+key
+knife
+sword
+staff
+loaf of bread
+mouse
+book
+scroll
+spear
+jam jar
+chest
+leash
+pen
+cloak
+spider
+corgi
+hat
+bobby pin
